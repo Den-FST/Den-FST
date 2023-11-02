@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Denis Sk</h1>
-<h3 align="center">A hardware developer from Moldova</h3>
+<h3 align="center">A hardware developer from Moldova, currently i live in Portugal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fstadmin&label=Profile%20views&color=0e75b6&style=flat" alt="fstadmin" /> </p>
 
-- 🔭 I’m currently working on **Home automation, Forex tools, OpenCV implementation.**
+- 🔭 I’m currently working on **Home automation, Forex tools, OpenCV implementation, Django Web Apps.**
 
-- 🌱 I’m currently learning **Python Middle level and MicroPython**
+- 🌱 I’m currently learning **Python Frameworks and MicroPython**
 
-- 👨‍💻 All of my projects are available at [https://github.com/fstadmin](https://github.com/fstadmin)
+- 👨‍💻 All of my projects are available at [https://github.com/Den-FST]
 
 - 📫 How to reach me **fstden@gmail.com**
 
