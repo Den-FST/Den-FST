@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fstadmin&label=Profile%20views&color=0e75b6&style=flat" alt="fstadmin" /> </p>
 
-- 🔭 I’m currently working on **Home automation, Forex tools, OpenCV implementation, Django Web Apps.**
+- 🔭 I’m currently working on **IoT, Home automation, Forex tools, OpenCV implementation, Django Web Apps, Python Frameworks.**
 
-- 🌱 I’m currently learning **Python Frameworks and MicroPython**
+- 🌱 I’m currently learning **React and Java Frontend**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Den-FST]
 
